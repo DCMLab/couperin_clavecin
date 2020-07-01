@@ -4318,9 +4318,6 @@
             </Rest>
           </voice>
         <voice>
-          <Harmony>
-            <name></name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
