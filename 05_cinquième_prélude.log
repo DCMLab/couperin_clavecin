@@ -2,3 +2,5 @@ Attempting to parse 05_cinquième_prélude.mscx
 MC 2 is longer 33/32 than its nominal duration 1.
 Done parsing 05_cinquième_prélude.mscx
 
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

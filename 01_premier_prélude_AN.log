@@ -1,3 +1,5 @@
 Attempting to parse 01_premier_prélude_AN.mscx
 Done parsing 01_premier_prélude_AN.mscx
 
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

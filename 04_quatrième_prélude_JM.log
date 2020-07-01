@@ -1,13 +1,9 @@
 Attempting to parse 04_quatrième_prélude_JM.mscx
 Done parsing 04_quatrième_prélude_JM.mscx
 
+The following chords could not be parsed:
+    mc  mn onset label
+ix                    
+45  13  13   1/8  I.[V
 Failed to expand labels due to syntactic errors:
-1 organ points started, 2 ended! Beginnings:
-ix
-0    I
-Name: pedal, dtype: object
-Endings:
-ix
-1     ]
-50    ]
-Name: pedalend, dtype: object
+repl_spec() missing 1 required positional argument: 'special'
