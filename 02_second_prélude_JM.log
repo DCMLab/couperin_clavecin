@@ -1,0 +1,10 @@
+Attempting to parse 02_second_prélude_JM.mscx
+MC 15 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
+Doublings: mc  onset
+15  0           ii%56(119)
+    0        empty_harmony
+Name: chords, dtype: object
+Done parsing 02_second_prélude_JM.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable

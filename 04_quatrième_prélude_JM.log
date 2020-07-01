@@ -1,0 +1,13 @@
+Attempting to parse 04_quatrième_prélude_JM.mscx
+Done parsing 04_quatrième_prélude_JM.mscx
+
+Failed to expand labels due to syntactic errors:
+1 organ points started, 2 ended! Beginnings:
+ix
+0    I
+Name: pedal, dtype: object
+Endings:
+ix
+1     ]
+50    ]
+Name: pedalend, dtype: object
