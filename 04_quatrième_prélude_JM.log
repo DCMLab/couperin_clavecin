@@ -1,9 +1,24 @@
-Attempting to parse 04_quatrième_prélude_JM.mscx
-Done parsing 04_quatrième_prélude_JM.mscx
+INFO     04_quatrième_prélude_JM.ms3 -- Attempting to parse 04_quatrième_prélude_JM.mscx
+INFO     04_quatrième_prélude_JM.ms3 -- Done parsing 04_quatrième_prélude_JM.mscx
 
-The following chords could not be parsed:
+WARNING  04_quatrième_prélude_JM.expand_labels -- The following chords could not be parsed:
     mc  mn onset label
 ix                    
 45  13  13   1/8  I.[V
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+ERROR    04_quatrième_prélude_JM -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 452, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 776, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended! Beginnings:\n{beginnings}\nEndings:\n{endings}"
+AssertionError: 1 organ points started, 2 ended! Beginnings:
+ix
+0    I
+Name: pedal, dtype: object
+Endings:
+ix
+1     ]
+50    ]
+Name: pedalend, dtype: object
