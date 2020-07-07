@@ -295,6 +295,7 @@
             </Rest>
           <Harmony>
             <name>.d.i</name>
+            <offset x="0" y="-4.14066"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -343,9 +344,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -2548,7 +2546,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>ii%56(119)</name>
+            <name>ii%65(119)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2591,7 +2589,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>ii°6</name>
+            <name>iio6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

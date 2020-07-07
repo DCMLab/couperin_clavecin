@@ -1,19 +1,2 @@
 INFO     04_quatrième_prélude_JM.ms3 -- Attempting to parse 04_quatrième_prélude_JM.mscx
 INFO     04_quatrième_prélude_JM.ms3 -- Done parsing 04_quatrième_prélude_JM.mscx
-
-WARNING  04_quatrième_prélude_JM.expand_labels -- The following chords could not be parsed:
-    mc  mn onset label
-ix                    
-45  13  13   1/8  I.[V
-ERROR    04_quatrième_prélude_JM -- Could not expand labels due to errors:
-Traceback (most recent call last):
-  File "scripts/parallel_parse.py", line 79, in parse
-    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
-    df = self.propagate_pedal(df, cols=cols)
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
-    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
-AssertionError: 1 organ points started, 2 ended:
-     mc pedal  mc pedalend
-0     1     I   2        ]
-1  <NA>   NaN  14        ]

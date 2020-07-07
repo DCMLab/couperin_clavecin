@@ -1,5 +1,3 @@
 INFO     00_allemande.ms3 -- Attempting to parse 00_allemande.mscx
-WARNING  00_allemande.ms3 -- MC 8 is completing MC 7 but has not been excluded from bar count!
-WARNING  00_allemande.ms3 -- MC 8 is completing MC 15 but has not been excluded from bar count!
 INFO     00_allemande.ms3 -- Done parsing 00_allemande.mscx
 

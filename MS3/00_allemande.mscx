@@ -1197,6 +1197,7 @@
         </Measure>
       <Measure len="11/16">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <BarLine>
             <subtype>start-repeat</subtype>

@@ -1,8 +1,2 @@
 INFO     06_sixième_prélude.ms3 -- Attempting to parse 06_sixième_prélude.mscx
 INFO     06_sixième_prélude.ms3 -- Done parsing 06_sixième_prélude.mscx
-
-WARNING  06_sixième_prélude.expand_labels -- The following chords could not be parsed:
-    mc  mn onset   label
-ix                      
-61  29  29   1/8  III+M7
-96  48  48   1/8  III+M7

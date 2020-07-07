@@ -2269,7 +2269,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I[I\\</name>
             <offset x="-0.813284" y="-5.26211"/>
             </Harmony>
           <Chord>
@@ -2311,10 +2311,6 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <name>I.[V</name>
-            <offset x="0" y="-5.2"/>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <dots>1</dots>
@@ -2327,7 +2323,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <name>V7</name>
+            <name>I.V7</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
