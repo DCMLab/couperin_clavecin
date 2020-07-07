@@ -7,18 +7,13 @@ ix
 45  13  13   1/8  I.[V
 ERROR    04_quatrième_prélude_JM -- Could not expand labels due to errors:
 Traceback (most recent call last):
-  File "parallel_parse.py", line 79, in parse
+  File "scripts/parallel_parse.py", line 79, in parse
     expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 452, in __init__
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
     df = self.propagate_pedal(df, cols=cols)
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 776, in propagate_pedal
-    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended! Beginnings:\n{beginnings}\nEndings:\n{endings}"
-AssertionError: 1 organ points started, 2 ended! Beginnings:
-ix
-0    I
-Name: pedal, dtype: object
-Endings:
-ix
-1     ]
-50    ]
-Name: pedalend, dtype: object
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
+AssertionError: 1 organ points started, 2 ended:
+     mc pedal  mc pedalend
+0     1     I   2        ]
+1  <NA>   NaN  14        ]
