@@ -1,13 +1,14 @@
 INFO     03_troisième_prélude_JM.ms3 -- Attempting to parse 03_troisième_prélude_JM.mscx
 INFO     03_troisième_prélude_JM.ms3 -- Done parsing 03_troisième_prélude_JM.mscx
 
-ERROR    03_troisième_prélude_JM.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
 ERROR    03_troisième_prélude_JM -- Could not expand labels due to errors:
 Traceback (most recent call last):
-  File "scripts/parallel_parse.py", line 79, in parse
+  File "scripts/parallel_parse.py", line 80, in parse
     expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 416, in __init__
-    df = self.propagate_keys(df, add_bool=True, **key_cols)
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 678, in propagate_keys
-    assert nunique > 0, "No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames."
-AssertionError: No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
+AssertionError: 1 organ points started, 0 ended:
+   mc pedal    mc pedalend
+0   1     i  <NA>      NaN
