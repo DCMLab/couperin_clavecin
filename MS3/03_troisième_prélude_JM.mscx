@@ -275,7 +275,7 @@
             <text><sym>metNoteQuarterUp</sym> = 116</text>
             </Tempo>
           <Harmony>
-            <name>.g.i[i</name>
+            <name>.g.i</name>
             <offset x="-0.135547" y="-3.44883"/>
             </Harmony>
           <Rest>
