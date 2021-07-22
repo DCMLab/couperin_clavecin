@@ -1,18 +1,25 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	movementTitle	musescore	composed_start	composed_end	annotator	reviewer
-MS3/00_allemande.mscx	00_allemande	.mscx	5ac199df16ad7664b3f40e06da90d19a	75	-1	4/4	François Couperin	© Les Éditions Outremontaises, 2005	L'Art de toucher le clavecin: Allemande	3.4.2	1716	1716	Adrian Nagel	
-MS3/01_premier_prélude_AN.mscx	01_premier_prélude_AN	.mscx	112501a68dc6f029dd6130580db32d2a	72		4/4	François Couperin	© Les Éditions Outremontaises, 2005	L'Art de toucher le clavecin, Premier Prélude	3.4.2	1716	1716	Adrian Nagel	
-MS3/01_premier_prélude_JM.mscx	01_premier_prélude_JM	.mscx	855262f690872a2698f4554d8b49c879	42		4/4	François Couperin	© Les Éditions Outremontaises, 2005	L'Art de toucher le clavecin, Premier Prélude	3.4.2	1716	1716	Adrian Nagel	Johannes Menke
-MS3/02_second_prélude_AN.mscx	02_second_prélude_AN	.mscx	0cb9c1a2c10c6fca0f59a79a36d6f13d	56	-1	4/4	François Couperin	"© Les Éditions Outremontaises, 2005
-"	L’Art de toucher le clavecin, Second Prélude	3.4.2	1716	1716	Adrian Nagel	
-MS3/02_second_prélude_JM.mscx	02_second_prélude_JM	.mscx	18e982ad7bb20b6fa021f79374a285e3	47	-1	4/4	François Couperin	"© Les Éditions Outremontaises, 2005
-"	L’Art de toucher le clavecin, Second Prélude	3.4.2	1716	1716	Adrian Nagel	Johannes Menke
-MS3/03_troisième_prélude_AN.mscx	03_troisième_prélude_AN	.mscx	ccfbb60ad3f2fcc450540c29b6b6f756	87	-2	6/4	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, Prélude 3	3.4.2	1716	1716	Adrian Nagel	
-MS3/03_troisième_prélude_JM.mscx	03_troisième_prélude_JM	.mscx	3d97a3d5785e8d366861e3d82bddb650	82	-2	6/4	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, Prélude 3	3.4.2	1716	1716	Adrian Nagel	Johannes Menke
-MS3/04_quatrième_prélude_AN.mscx	04_quatrième_prélude_AN	.mscx	171b1d218041d0d84cdb59716f9f3eac	90	-1	2/2	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, 4e Prélude	3.4.2	1716	1716	Adrian Nagel	
-MS3/04_quatrième_prélude_JM.mscx	04_quatrième_prélude_JM	.mscx	1aa590df40cdcdb226502afe50aaa507	76	-1	2/2	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, 4e Prélude	3.4.2	1716	1716	Adrian Nagel	Johannes Menke
-MS3/05_cinquième_prélude.mscx	05_cinquième_prélude	.mscx	4ddcd3916940c567b2044cc1b7cf7fb8	127	3	4/4	François Couperin	"© Les Éditions Outremontaises, 2005
-"	L’Art de toucher le clavecin, Prélude no 5	3.4.2	1716	1716	Adrian Nagel	
-MS3/06_sixième_prélude.mscx	06_sixième_prélude	.mscx	e769df96a13720008a37f34eec8c6fa2	120	2	3/8	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, Prélude no 6	3.4.2	1716	1716	Adrian Nagel	
-MS3/07_septième_prélude.mscx	07_septième_prélude	.mscx	648d5cdf1ad457b072585c5b3d7fa29a	97	-2	4/4	"François Couperin
-"	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, Prélude no 7	3.4.2	1716	1716	Adrian Nagel	
-MS3/08_huitième_prélude.mscx	08_huitième_prélude	.mscx	6053497fac0ef01e4dac9306b150a592	124	1	6/8	François Couperin	© Les Éditions Outremontaises, 2005	L’Art de toucher le clavecin, Prélude no 8	3.4.2	1716	1716	Adrian Nagel	
+		last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	annotator	composed_end	composed_start	extension	md5	originalFormat	reviewer	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
+MS3	00_allemande	15	13	1: -1	1: 4/4	75	d	François Couperin			L'Art de toucher le clavecin: Allemande					© Les Éditions Outremontaises, 2005	2019-05-27	Apple Macintosh			3.4.2	33-84 (A1-C6)						mxl		62-84 (D4-C6)	Instrument 1	33-64 (A1-E4)	Instrument 1
+MS3	01_premier_prélude_JM	20	20	1: 0	1: 4/4	41	C	François Couperin			L'Art de toucher le clavecin, Premier Prélude					© Les Éditions Outremontaises, 2005	2019-05-27	Apple Macintosh			3.4.2	31-67 (G1-G4)						mxl		50-67 (D3-G4)	Instrument 1	31-57 (G1-A3)	Instrument 1
+MS3	02_second_prélude_JM	19	18	1: -1	1: 4/4	45	d	François Couperin			L’Art de toucher le clavecin, Second Prélude					"© Les Éditions Outremontaises, 2005
+"	2019-05-27	Apple Macintosh			3.4.2	33-79 (A1-G5)						musicxml		55-79 (G3-G5)	Instrument 1	33-65 (A1-F4)	Instrument 1
+MS3	03_troisième_prélude_JM	18	18	1: -2	1: 6/4	82	g	François Couperin			L’Art de toucher le clavecin, Prélude 3					© Les Éditions Outremontaises, 2005	2019-05-27	Apple Macintosh			3.4.2	31-79 (G1-G5)						mxl		55-79 (G3-G5)	Instrument 1	31-72 (G1-C5)	Instrument 1
+MS3	04_quatrième_prélude_JM	23	23	1: -1	1: 2/2	75	F	François Couperin			L’Art de toucher le clavecin, 4e Prélude					© Les Éditions Outremontaises, 2005	2019-05-27	Apple Macintosh			3.4.2	31-74 (G1-D5)						mxl		50-74 (D3-D5)	Instrument 1	31-58 (G1-Bb3)	Instrument 1
+MS3	06_sixième_prélude	59	59	1: 2	1: 3/8	120	b	François Couperin			L’Art de toucher le clavecin, Prélude no 6					© Les Éditions Outremontaises, 2005	2019-05-27	Apple Macintosh			3.4.2	33-86 (A1-D6)						mxl		49-86 (C#3-D6)	Instrument 1	33-76 (A1-E5)	Instrument 1
+MS3/00_allemande.mscx	00_allemande			-1	4/4	75		François Couperin			L'Art de toucher le clavecin: Allemande					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	5ac199df16ad7664b3f40e06da90d19a						
+MS3/01_premier_prélude_AN.mscx	01_premier_prélude_AN				4/4	72		François Couperin			L'Art de toucher le clavecin, Premier Prélude					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	112501a68dc6f029dd6130580db32d2a						
+MS3/01_premier_prélude_JM.mscx	01_premier_prélude_JM				4/4	42		François Couperin			L'Art de toucher le clavecin, Premier Prélude					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	855262f690872a2698f4554d8b49c879		Johannes Menke				
+MS3/02_second_prélude_AN.mscx	02_second_prélude_AN			-1	4/4	56		François Couperin			L’Art de toucher le clavecin, Second Prélude					"© Les Éditions Outremontaises, 2005
+"					3.4.2		Adrian Nagel	1716	1716	.mscx	0cb9c1a2c10c6fca0f59a79a36d6f13d						
+MS3/02_second_prélude_JM.mscx	02_second_prélude_JM			-1	4/4	47		François Couperin			L’Art de toucher le clavecin, Second Prélude					"© Les Éditions Outremontaises, 2005
+"					3.4.2		Adrian Nagel	1716	1716	.mscx	18e982ad7bb20b6fa021f79374a285e3		Johannes Menke				
+MS3/03_troisième_prélude_AN.mscx	03_troisième_prélude_AN			-2	6/4	87		François Couperin			L’Art de toucher le clavecin, Prélude 3					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	ccfbb60ad3f2fcc450540c29b6b6f756						
+MS3/03_troisième_prélude_JM.mscx	03_troisième_prélude_JM			-2	6/4	82		François Couperin			L’Art de toucher le clavecin, Prélude 3					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	3d97a3d5785e8d366861e3d82bddb650		Johannes Menke				
+MS3/04_quatrième_prélude_AN.mscx	04_quatrième_prélude_AN			-1	2/2	90		François Couperin			L’Art de toucher le clavecin, 4e Prélude					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	171b1d218041d0d84cdb59716f9f3eac						
+MS3/04_quatrième_prélude_JM.mscx	04_quatrième_prélude_JM			-1	2/2	76		François Couperin			L’Art de toucher le clavecin, 4e Prélude					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	1aa590df40cdcdb226502afe50aaa507		Johannes Menke				
+MS3/05_cinquième_prélude.mscx	05_cinquième_prélude			3	4/4	127		François Couperin			L’Art de toucher le clavecin, Prélude no 5					"© Les Éditions Outremontaises, 2005
+"					3.4.2		Adrian Nagel	1716	1716	.mscx	4ddcd3916940c567b2044cc1b7cf7fb8						
+MS3/06_sixième_prélude.mscx	06_sixième_prélude			2	3/8	120		François Couperin			L’Art de toucher le clavecin, Prélude no 6					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	e769df96a13720008a37f34eec8c6fa2						
+MS3/07_septième_prélude.mscx	07_septième_prélude			-2	4/4	97		"François Couperin
+"			L’Art de toucher le clavecin, Prélude no 7					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	648d5cdf1ad457b072585c5b3d7fa29a						
+MS3/08_huitième_prélude.mscx	08_huitième_prélude			1	6/8	124		François Couperin			L’Art de toucher le clavecin, Prélude no 8					© Les Éditions Outremontaises, 2005					3.4.2		Adrian Nagel	1716	1716	.mscx	6053497fac0ef01e4dac9306b150a592						
