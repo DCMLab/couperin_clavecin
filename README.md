@@ -21,3 +21,6 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |06_sixième_prélude     |      59|   120|2.1.0   |Adrian Nagel|              |
 |07_septième_prélude    |      24|    97|2.1.0   |Adrian Nagel|              |
 |08_huitième_prélude    |      31|   124|2.1.0   |Adrian Nagel|              |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.0beta.*
