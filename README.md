@@ -16,7 +16,7 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |05_cinquieme_prelude|      24|   127|2.1.0   |Adrian Nagel|
 |06_sixieme_prelude  |      59|   120|2.1.0   |Adrian Nagel|
 |07_septieme_prelude |      24|    97|2.1.0   |Adrian Nagel|
-|08_huitieme_prelude |      31|   124|2.1.0   |Adrian Nagel|
+|08_huitieme_prelude |      31|   125|2.1.0   |Adrian Nagel|
 
 
 *Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.0beta.*
