@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -210,7 +210,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -508,13 +507,9 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="33/32">
+      <Measure>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -530,7 +525,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>59</pitch>
@@ -553,11 +547,7 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -572,7 +562,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>61</pitch>
@@ -580,10 +569,9 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Articulation>
-              <subtype>ornamentShortTrill</subtype>
+              <subtype>ornamentMordent</subtype>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -598,14 +586,9 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-5"/>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>61</pitch>
@@ -622,50 +605,67 @@
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
-            <baseNote>32nd</baseNote>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
+            <baseNote>64th</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>6</text>
+              </Number>
             </Tuplet>
           <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
+            </Rest>
+          <Chord>
+            <durationType>64th</durationType>
             <Note>
               <pitch>56</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
+            <durationType>64th</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <voices>1</voices>
+                    <fractions>1/32</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
+            <durationType>64th</durationType>
             <Note>
               <pitch>56</pitch>
               <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
+            <durationType>64th</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <voices>1</voices>
+                    <fractions>1/96</fractions>
+                    <notes>1</notes>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <endTuplet/>
           <Chord>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
@@ -674,7 +674,7 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-7/8</fractions>
+                    <fractions>-13/16</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -682,20 +682,12 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <visible>0</visible>
-            <durationType>32nd</durationType>
-            </Rest>
           </voice>
         <voice>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -712,7 +704,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -735,7 +726,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -747,72 +737,16 @@
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Tuplet>
-            <normalNotes>4</normalNotes>
-            <actualNotes>6</actualNotes>
-            <baseNote>quarter</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>6</text>
-              </Number>
-            <bracketType>1</bracketType>
-            </Tuplet>
           <Rest>
-            <offset x="0" y="2"/>
-            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
-          <Rest>
-            <offset x="0" y="2"/>
-            <visible>0</visible>
-            <durationType>32nd</durationType>
-            </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/12</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/24</fractions>
-                    <notes>1</notes>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
@@ -821,14 +755,15 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-43/48</fractions>
+                    <fractions>-13/16</fractions>
                     </location>
                   </next>
                 </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
-                    <fractions>-1/12</fractions>
+                    <voices>-1</voices>
+                    <fractions>-1/32</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -842,14 +777,15 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-43/48</fractions>
+                    <fractions>-13/16</fractions>
                     </location>
                   </next>
                 </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
-                    <fractions>-1/24</fractions>
+                    <voices>-1</voices>
+                    <fractions>-1/96</fractions>
                     <notes>-1</notes>
                     </location>
                   </prev>
@@ -858,9 +794,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -882,7 +815,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>7/8</fractions>
+                    <fractions>13/16</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -1012,7 +945,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>43/48</fractions>
+                    <fractions>13/16</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -1024,7 +957,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>43/48</fractions>
+                    <fractions>13/16</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -6846,72 +6779,46 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="33/32">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(9)</name>
-            <offset x="0" y="-4.93985"/>
             </Harmony>
           <Rest>
-            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
-            <offset x="0" y="-6.02423"/>
             </Harmony>
           <Rest>
-            <visible>0</visible>
-            <dots>2</dots>
-            <durationType>64th</durationType>
-            <duration>1/48</duration>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            </Rest>
-          <Rest>
-            <offset x="0" y="-2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-7/256</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IVM7</name>
-            <offset x="0" y="-7.6508"/>
             </Harmony>
-          <location>
-            <fractions>7/256</fractions>
-            </location>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
           <location>
-            <fractions>-39/256</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
-            <offset x="0" y="-5.88868"/>
+            <name>iv65</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -6919,77 +6826,37 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V</name>
-            <offset x="0" y="-5.21095"/>
             </Harmony>
-          <location>
-            <fractions>7/256</fractions>
-            </location>
           <Rest>
-            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <location>
-            <fractions>-39/256</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V</name>
-            <offset x="0" y="-5.88868"/>
             </Harmony>
-          <location>
-            <fractions>39/256</fractions>
-            </location>
-          <Rest>
-            <visible>0</visible>
-            <dots>2</dots>
-            <durationType>128th</durationType>
-            <duration>1/96</duration>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            </Rest>
           </voice>
         <voice>
-          <Rest>
-            <dots>2</dots>
-            <durationType>64th</durationType>
-            </Rest>
-          <location>
-            <fractions>-5/768</fractions>
-            </location>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
-              <subtype>ornamentShortTrill</subtype>
+              <subtype>ornamentMordent</subtype>
               </Articulation>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-187/768</fractions>
-            </location>
-          <location>
-            <fractions>187/768</fractions>
-            </location>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -7004,11 +6871,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -7026,9 +6889,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
