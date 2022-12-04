@@ -8866,7 +8866,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64</name>
+            <name>#viio64</name>
             <offset x="-1" y="-2.5"/>
             </Harmony>
           <location>
