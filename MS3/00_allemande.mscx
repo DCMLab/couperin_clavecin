@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -209,7 +209,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -1498,19 +1497,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
