@@ -880,12 +880,8 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-3/16</fractions>
+            <fractions>9/16</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -1013,12 +1009,8 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-3/16</fractions>
+            <fractions>9/16</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -1153,10 +1145,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -1458,10 +1446,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -1828,12 +1812,8 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>5/16</fractions>
             </location>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2018,10 +1998,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2324,10 +2300,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2432,10 +2404,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3282,10 +3250,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3383,10 +3347,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3490,10 +3450,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3669,12 +3625,8 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>5/16</fractions>
             </location>
           <Rest>
             <offset x="0" y="2"/>
@@ -3900,12 +3852,8 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>5/16</fractions>
             </location>
           <Rest>
             <offset x="0" y="1"/>
@@ -6319,12 +6267,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -6450,12 +6394,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -6577,12 +6517,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -6707,12 +6643,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
