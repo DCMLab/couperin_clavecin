@@ -38,6 +38,7 @@ jobs:
 
       - name: Pull Request open or not?
         id: checkpull
+        working-directory: ${{ github.event.repository.name }}
         continue-on-error: true
         run: |
            gh pr view --json state -q .[]
@@ -62,6 +63,7 @@ jobs:
           directory: "${{ github.workspace }}"
           working_dir: ${{ github.event.repository.name }}
       - name: Cancel the run if skipped
+        working-directory: ${{ github.event.repository.name }}
         if: (steps.act_docker.outputs.skipped == 'true')
         run: |
            gh run cancel ${{ github.run_id }}
