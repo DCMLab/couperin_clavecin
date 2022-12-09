@@ -8000,6 +8000,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
+            <offset x="-0.480418" y="4.22063"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8203,7 +8204,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}</name>
             <offset x="0" y="-5.03815"/>
             </Harmony>
           <Chord>
@@ -8218,22 +8219,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-5/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(4)</name>
-            <offset x="-0.220708" y="-4.81744"/>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i\\</name>
-            <offset x="0.110354" y="-4.81744"/>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
