@@ -209,7 +209,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -307,6 +306,7 @@
           <style>Title</style>
           <family>Times</family>
           <size>9.4</size>
+          <offset x="0" y="6.34537"/>
           <text><font size="14"></font><font face="SnellRoundhand BlackScript"></font>L ’Art de toucher le Clavecin (1716)</text>
           </Text>
         <Text>
@@ -333,6 +333,12 @@
             <family>Times</family>
             <offset x="-6.60313" y="-7.11006"/>
             <text><font size="14"></font><font face="SnellRoundhand BoldScript"></font><b>Mesuré</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.4500000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 58</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>
@@ -1157,8 +1163,13 @@
               </Note>
             </Chord>
           <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -1329,7 +1340,9 @@
               </Note>
             </Chord>
           <Rest>
-            <dots>1</dots>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -4851,7 +4864,9 @@
               </Note>
             </Chord>
           <Rest>
-            <dots>1</dots>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -6954,14 +6969,14 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv.V</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv.V</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
