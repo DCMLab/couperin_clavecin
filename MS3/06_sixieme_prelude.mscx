@@ -6892,7 +6892,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="1.09396" y="-6.95745"/>
+            <offset x="0.373332" y="4.08351"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6928,7 +6928,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}{</name>
             <offset x="0" y="-4.8043"/>
             </Harmony>
           <Chord>
