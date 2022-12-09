@@ -5073,6 +5073,7 @@
           </voice>
         <voice>
           <Rest>
+            <offset x="-0.840732" y="1.68146"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -7878,7 +7879,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <offset x="0" y="-4.93985"/>
+            <offset x="0" y="4.02234"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7895,7 +7896,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7</name>
-            <offset x="-0.296288" y="-5.61156"/>
+            <offset x="-0.296288" y="4.2764"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7931,6 +7932,7 @@
           </voice>
         <voice>
           <Rest>
+            <offset x="-0.240209" y="-9.60837"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -8188,7 +8190,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)</name>
-            <offset x="0" y="-4.8"/>
+            <offset x="0" y="3.26708"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -8196,7 +8198,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="0" y="-5.1"/>
+            <offset x="0" y="4.44383"/>
             </Harmony>
           </voice>
         </Measure>
