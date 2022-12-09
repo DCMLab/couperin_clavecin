@@ -6226,7 +6226,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>ii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6239,10 +6239,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
