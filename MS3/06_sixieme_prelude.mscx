@@ -6381,7 +6381,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(2)</name>
+            <name>viio6(2)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6396,7 +6396,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6416,7 +6416,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6439,8 +6439,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
-            <offset x="0" y="-5.70027"/>
+            <name>V</name>
+            <offset x="0" y="2.64226"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
