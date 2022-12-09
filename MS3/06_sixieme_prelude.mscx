@@ -5794,7 +5794,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="0" y="-4.5"/>
+            <offset x="0.360314" y="3.8433"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5810,8 +5810,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
-            <offset x="0" y="-5.5"/>
+            <name>I|IAC}{</name>
+            <offset x="0" y="3.7232"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
