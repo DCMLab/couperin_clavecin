@@ -6440,7 +6440,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="0" y="2.64226"/>
+            <offset x="0" y="3.12267"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6690,7 +6690,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7(#5)</name>
+            <name>VM7(#5)/VI</name>
             <offset x="-0.185934" y="-6.73071"/>
             </Harmony>
           <Chord>
