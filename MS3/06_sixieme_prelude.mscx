@@ -5508,7 +5508,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <offset x="0.135547" y="-2.77109"/>
+            <offset x="0.375756" y="3.54192"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -5578,7 +5578,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
-            <offset x="0.135547" y="-2.36445"/>
+            <offset x="0.255652" y="4.02234"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -5623,7 +5623,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <offset x="0.542189" y="-4.12657"/>
+            <offset x="0.422084" y="5.84235"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5659,7 +5659,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}{</name>
+            <offset x="0" y="5.18146"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5675,7 +5676,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v</name>
-            <offset x="-0.271095" y="-3.71993"/>
+            <offset x="-0.15099" y="5.13205"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
