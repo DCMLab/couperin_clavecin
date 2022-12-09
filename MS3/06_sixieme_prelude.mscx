@@ -6311,8 +6311,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.I</name>
-            <offset x="0" y="-5.1485"/>
+            <name>V</name>
+            <offset x="0.120105" y="3.7232"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6358,7 +6358,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
