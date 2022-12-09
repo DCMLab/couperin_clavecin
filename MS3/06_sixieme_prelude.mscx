@@ -6851,7 +6851,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <offset x="0" y="-7.10861"/>
+            <offset x="0.240209" y="3.42182"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -6859,7 +6859,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <offset x="-0.135547" y="-7.10861"/>
+            <offset x="0.224767" y="4.02234"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6929,7 +6929,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}{</name>
-            <offset x="0" y="-4.8043"/>
+            <offset x="0" y="3.82487"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7206,7 +7206,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
