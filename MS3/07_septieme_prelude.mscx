@@ -7075,7 +7075,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)</name>
+            <name>I(^4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -7378,7 +7378,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.ii</name>
+            <name>vi</name>
             <offset x="0.135547" y="-6.15978"/>
             </Harmony>
           <Rest>
@@ -7395,7 +7395,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V.V</name>
             <offset x="-0.222408" y="-4.94649"/>
             </Harmony>
           <Chord>
