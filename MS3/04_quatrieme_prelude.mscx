@@ -3863,7 +3863,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>F.I[I{</name>
+            <name>F.I{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3946,7 +3946,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6]</name>
+            <name>I(7^2)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4202,7 +4202,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii/IV</name>
+            <name>vi/IV</name>
+            <offset x="-0.43664" y="3.82748"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
