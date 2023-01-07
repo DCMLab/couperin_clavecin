@@ -1,7 +1,11 @@
-Warnings encountered during the last execution of ms3 review (v1.0.2)
+Warnings encountered during the last execution of ms3 review (v1.0.4)
 =====================================================================
 
+DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.couperin_clavecin.04_quatrieme_prelude -- /usr/local/lib/python3.10/site-packages/ms3/annotations.py (line 382) expand_dcml():
+	Score contains 1 labels that don't (and 69 that do) match the DCML standard:
+	    mc  mn    label harmony_layer
+	10   5   5  I6(7)IV             1
 Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
-                                                    mc  mn mc_onset   label chord_tones added_tones  n_colored  n_untouched  count_ratio
-couperin_clavecin MS3/03_troisieme_prelude.mscx 28   8   8      1/2     ii6   (0, 4, 3)          ()          2            1     0.666667
-                  MS3/04_quatrieme_prelude.mscx 1    2   2        0  viio6]  (1, -2, 4)          ()          4            2     0.666667
+                                                 mc  mn mc_onset   label chord_tones added_tones  n_colored  n_untouched  count_ratio
+couperin_clavecin MS3/04_quatrieme_prelude.mscx   2   2        0  viio6]  (1, -2, 4)          ()          4            2     0.666667
+                  MS3/04_quatrieme_prelude.mscx   5   5      1/2  iii/IV  (2, -1, 3)          ()          2            1     0.666667
