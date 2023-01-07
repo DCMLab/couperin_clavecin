@@ -329,6 +329,7 @@
           <Tempo>
             <tempo>2.8333333333333335</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-7.85915" y="-4.35893"/>
             <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 170</b></text>
             </Tempo>
@@ -2876,7 +2877,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -3049,7 +3050,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3401,7 +3402,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/III</name>
+            <name>I/III|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3458,7 +3459,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
+            <name>V/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3826,7 +3827,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
@@ -4172,7 +4173,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(2)</name>
+            <name>iv6(2)|DC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5104,7 +5105,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
