@@ -9008,13 +9008,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>ii65</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.135547" y="-4.14883"/>
             </Harmony>
           <Chord>
@@ -9076,11 +9070,6 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v-ii/IV</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
