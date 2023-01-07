@@ -3678,7 +3678,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>iio</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
