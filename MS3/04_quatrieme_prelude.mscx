@@ -3863,7 +3863,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>F.I[I</name>
+            <name>F.I[I{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4333,7 +4333,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\</name>
+            <name>V|HC}{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
@@ -4451,7 +4451,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4466,7 +4466,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -4771,7 +4771,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I\\</name>
+            <name>I[I|PAC}{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -5123,7 +5123,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v</name>
+            <name>i/v|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5779,12 +5779,22 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I(4)}</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
             <durationType>half</durationType>
             </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
