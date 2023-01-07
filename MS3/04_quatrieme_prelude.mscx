@@ -4492,14 +4492,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii65(2)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii65</name>
+            <name>ii7</name>
             </Harmony>
           </voice>
         <voice>
@@ -4543,7 +4536,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2(94)</name>
+            <name>iii2(9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4554,32 +4547,18 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2(9)</name>
+            <name>IM7</name>
             </Harmony>
           <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65(2)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi65</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii2(94)</name>
+            <name>ii2(9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4590,25 +4569,11 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2(9)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65(2)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65-vii%7</name>
             </Harmony>
           </voice>
         <voice>
@@ -4653,7 +4618,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(94)</name>
+            <name>I(9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4664,14 +4629,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(9)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4753,7 +4711,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7</name>
+            <name>IV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -4771,7 +4729,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
