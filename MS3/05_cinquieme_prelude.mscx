@@ -6861,6 +6861,16 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65</name>
@@ -7715,7 +7725,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(64)</name>
+            <name>v(b64)</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
