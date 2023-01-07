@@ -4257,7 +4257,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(7)IV</name>
+            <name>I6(7)/IV</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -4310,7 +4310,6 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
