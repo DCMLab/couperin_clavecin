@@ -209,13 +209,12 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Adrian Nagel</metaTag>
+    <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1716</metaTag>
     <metaTag name="composed_start">1716</metaTag>
@@ -223,7 +222,7 @@
 </metaTag>
     <metaTag name="copyright">© Les Éditions Outremontaises, 2005</metaTag>
     <metaTag name="creationDate">2019-05-27</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">L’Art de toucher le clavecin, Prélude no 7</metaTag>
@@ -231,6 +230,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -342,6 +342,12 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Tempo>
+            <tempo>0.66666666666666663</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 40</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1324,12 +1330,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-3/16</fractions>
+            <fractions>9/16</fractions>
             </location>
           <Chord>
             <durationType>16th</durationType>
@@ -2046,10 +2048,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         <voice>
           <Rest>
@@ -2291,12 +2289,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-3/16</fractions>
+            <fractions>9/16</fractions>
             </location>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2325,6 +2319,10 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="0">
+                    <o2 x="0" y="2.72301"/>
+                    <o3 x="0" y="2.72301"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2346,12 +2344,8 @@
             </Rest>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -2610,10 +2604,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         <voice>
           <Rest>
@@ -3279,12 +3269,8 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            </Rest>
           <location>
-            <fractions>-1/16</fractions>
+            <fractions>5/16</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -3348,10 +3334,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3893,12 +3875,8 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -4229,10 +4207,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -5156,12 +5130,8 @@
             </Rest>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>5/8</fractions>
             </location>
           <Chord>
             <durationType>eighth</durationType>
@@ -6548,10 +6518,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         <voice>
           <Rest>
@@ -6800,9 +6766,9 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -8862,15 +8828,15 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.I</name>
             <offset x="0" y="-3.44883"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -9088,9 +9054,9 @@
             </Rest>
           </voice>
         <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -9749,10 +9715,9 @@
             </Harmony>
           </voice>
         <voice>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            </Rest>
+          <location>
+            <fractions>3/4</fractions>
+            </location>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
