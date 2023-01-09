@@ -1,7 +1,7 @@
-Warnings encountered during the last execution of ms3 review (v1.0.2)
+Warnings encountered during the last execution of ms3 review (v1.0.4)
 =====================================================================
 
 Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
-                                                    mc  mn mc_onset   label chord_tones added_tones  n_colored  n_untouched  count_ratio
-couperin_clavecin MS3/03_troisieme_prelude.mscx 28   8   8      1/2     ii6   (0, 4, 3)          ()          2            1     0.666667
-                  MS3/04_quatrieme_prelude.mscx 1    2   2        0  viio6]  (1, -2, 4)          ()          4            2     0.666667
+                                                 mc  mn mc_onset   label chord_tones added_tones  n_colored  n_untouched  count_ratio
+couperin_clavecin MS3/03_troisieme_prelude.mscx   8   8      1/2     ii6   (0, 4, 3)          ()          2            1     0.666667
+                  MS3/04_quatrieme_prelude.mscx   2   2        0  viio6]  (1, -2, 4)          ()          4            2     0.666667
