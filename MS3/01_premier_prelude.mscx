@@ -3565,7 +3565,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>C.I</name>
+            <name>C.I{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3856,7 +3856,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3885,6 +3885,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -4047,7 +4051,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)/V</name>
+            <name>I(4)/V}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4067,7 +4071,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V</name>
+            <name>I/V|PAC{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4410,7 +4414,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2|HC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4422,7 +4426,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/ii</name>
+            <name>V43/ii{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -4739,7 +4743,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)</name>
+            <name>I(4)}</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -4747,7 +4751,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
