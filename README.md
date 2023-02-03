@@ -19,4 +19,4 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |08_huitieme_prelude |      31|   125|2.1.0   |Adrian Nagel                              |         |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.2.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.4.*
