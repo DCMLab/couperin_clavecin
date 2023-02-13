@@ -210,7 +210,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -4274,7 +4274,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
