@@ -231,7 +231,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, Hanné Becker</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -335,7 +335,7 @@
             <tempo>0.73333333333333328</tempo>
             <followText>1</followText>
             <offset x="-7.91189" y="-2.88009"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 44</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 44</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
