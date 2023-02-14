@@ -210,7 +210,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -3870,32 +3870,15 @@
             <fractions>1/8</fractions>
             </location>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/16</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/16</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
