@@ -9396,7 +9396,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|IAC</name>
+            <name>V|HC</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
