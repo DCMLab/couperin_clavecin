@@ -5023,7 +5023,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6-iv6/v</name>
+            <name>i6-iv6/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5045,7 +5045,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5069,14 +5069,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/v</name>
+            <name>V(64)/ii</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/v</name>
+            <name>V(4)/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5098,7 +5098,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7/ii</name>
             </Harmony>
           </voice>
         <voice>
@@ -5124,7 +5124,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v|PAC}{</name>
+            <name>i/ii|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
