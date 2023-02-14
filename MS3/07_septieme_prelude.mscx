@@ -9153,7 +9153,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(^9)}</name>
+            <name>I/IV(^9)}</name>
             <offset x="0" y="-4.8043"/>
             </Harmony>
           <Chord>
@@ -9166,7 +9166,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV|IAC</name>
+            <name>I/IV|IAC</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
