@@ -1742,11 +1742,8 @@
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1875,9 +1872,6 @@
               <tpc>19</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>63</pitch>
               <tpc>23</tpc>
               </Note>
