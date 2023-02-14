@@ -3402,7 +3402,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/III|PAC}</name>
+            <name>I/III|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
