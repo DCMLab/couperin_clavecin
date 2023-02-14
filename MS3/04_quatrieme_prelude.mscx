@@ -210,7 +210,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.651</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -4281,7 +4281,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>viio6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
