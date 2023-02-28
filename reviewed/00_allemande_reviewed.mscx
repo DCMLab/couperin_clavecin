@@ -229,7 +229,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, Hanné Becker</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -316,6 +316,7 @@
           <Tempo>
             <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-6.77954" y="-5.88172"/>
             <text><sym>metNoteQuarterUp</sym> = 96</text>
             </Tempo>

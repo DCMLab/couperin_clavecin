@@ -229,7 +229,7 @@
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
+    <metaTag name="reviewers">DK, Hanné Becker</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -3910,18 +3910,26 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>5/16</fractions>
-            </location>
           <Rest>
-            <offset x="0" y="1"/>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Chord>
-            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>16th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -4327,6 +4335,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|IAC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5959,6 +5973,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI|EC}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/VI|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.53321"/>
             </Harmony>
           <Beam>
@@ -6723,6 +6743,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
