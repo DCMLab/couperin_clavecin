@@ -15,7 +15,7 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |04_quatrieme_prelude|      23|    70|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 |05_cinquieme_prelude|      24|    96|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 |06_sixieme_prelude  |      59|   108|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0) |DK              |
-|07_septieme_prelude |      24|    90|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
+|07_septieme_prelude |      24|    89|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 |08_huitieme_prelude |      31|   122|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 
 

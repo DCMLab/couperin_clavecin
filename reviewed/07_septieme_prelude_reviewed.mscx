@@ -5724,6 +5724,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5751,6 +5752,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -6508,6 +6510,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -6534,6 +6537,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -9203,15 +9207,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/IV(^2)}</name>
+            <name>I/IV}</name>
             <color r="0" g="85" b="0" a="255"/>
-            <offset x="0.1" y="-4.8043"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -9219,10 +9221,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I/IV|IAC</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>|</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -9436,7 +9444,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(^9)}</name>
-            <offset x="0" y="-5.0754"/>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.1" y="-5.0754"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9449,6 +9463,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
