@@ -9101,8 +9101,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/IV(^2)}</name>
-            <offset x="0.1" y="-4.8043"/>
+            <name>I/IV}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9112,13 +9111,13 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I/IV|IAC</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>|</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -9331,8 +9330,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(^9)}</name>
-            <offset x="0" y="-5.0754"/>
+            <name>V|HC}</name>
+            <offset x="0.1" y="-5.0754"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9342,10 +9341,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V|HC</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
