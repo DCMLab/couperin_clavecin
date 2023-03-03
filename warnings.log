@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review (v1.2.4)
-=====================================================================
-
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.couperin_clavecin.07_septieme_prelude -- /usr/local/lib/python3.10/site-packages/ms3/annotations.py (line 382) expand_dcml():
-	Score contains 1 labels that don't (and 87 that do) match the DCML standard:
-	    mc  mn label harmony_layer
-	74  20  20     |             1
