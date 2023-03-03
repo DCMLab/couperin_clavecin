@@ -8261,7 +8261,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.iv(^9){</name>
+            <name>vi.iv</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8280,16 +8281,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -8386,7 +8377,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio(^9)/iv</name>
+            <name>#viio/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8408,16 +8399,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
