@@ -3959,6 +3959,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/IV</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
