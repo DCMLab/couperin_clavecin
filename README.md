@@ -5,7 +5,7 @@ Don't distribute.
 
 Converted to MUSX and XML using Finale 25.2.0.92.
 
-# Overview
+## Overview
 |     file_name      |measures|labels|standard|                annotators                 |   reviewers    |
 |--------------------|-------:|-----:|--------|-------------------------------------------|----------------|
 |00_allemande        |      13|    66|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
@@ -19,4 +19,4 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |08_huitieme_prelude |      31|   122|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
