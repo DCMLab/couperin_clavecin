@@ -216,24 +216,33 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1716</metaTag>
+    <metaTag name="composed_end">1717</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1716</metaTag>
     <metaTag name="composer">François Couperin</metaTag>
-    <metaTag name="copyright">© Les Éditions Outremontaises, 2005</metaTag>
+    <metaTag name="composer_text">&lt;font size=&quot;14&quot;/&gt;&lt;font face=&quot;SnellRoundhand BoldScript&quot;/&gt;François Couperin
+&lt;font size=&quot;10.9&quot;/&gt;(1668-1733)</metaTag>
+    <metaTag name="copyright">© Les Éditions Outremontaises, 2005 (CC BY-NC 4.0)</metaTag>
     <metaTag name="creationDate">2019-05-27</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/L'Art_de_toucher_le_clavecin_(Couperin%2C_Fran%C3%A7ois)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">L’Art de toucher le clavecin, Prélude no 6</metaTag>
+    <metaTag name="movementNumber">7</metaTag>
+    <metaTag name="movementTitle">Sixth Prelude</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/363ac620-fdc3-4407-93f6-c0fd1f314352</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/381211</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.musicalion.com/de/scores/noten/323/francois-couperin/9834/sixi%C3%A8me-pr%C3%A9lude-aus-l-art-de-toucher-le-clavecin</metaTag>
+    <metaTag name="subtitle_text">&lt;font size=&quot;25&quot;/&gt;&lt;font face=&quot;SnellRoundhand BoldScript&quot;/&gt;Sixième Prélude</metaTag>
+    <metaTag name="title_text">&lt;font size=&quot;14&quot;/&gt;&lt;font face=&quot;SnellRoundhand BlackScript&quot;/&gt;L ’Art de toucher le Clavecin (1716)</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185250979/</metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">L’Art de toucher le clavecin</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
