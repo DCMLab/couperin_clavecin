@@ -214,6 +214,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q50186</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1717</metaTag>
@@ -242,6 +243,7 @@
     <metaTag name="title_text">&lt;font size=&quot;14&quot;/&gt;&lt;font face=&quot;SnellRoundhand BlackScript&quot;/&gt;L ’Art de toucher le Clavecin (1716)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/185250979/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3817964</metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">L’Art de toucher le clavecin</metaTag>
     <Part>
