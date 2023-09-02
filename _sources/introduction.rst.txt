@@ -26,7 +26,7 @@ Without full version history
 
 If you are only interested in the current version of the corpus, you can download and unpack:
 
-* `François Couperin – L\'art de toucher le clavecin <https://github.com/DCMLab/couperin_clavecin/archive/refs/heads/main.zip>`__
+* `François Couperin – L'art de toucher le clavecin <https://github.com/DCMLab/couperin_clavecin/archive/refs/heads/main.zip>`__
 
 
 Data Formats
