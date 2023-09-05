@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
-    <title>Notes &#8212; François Couperin – L&#39;art de toucher le clavecin v2.0.0 documentation</title>
+    <title>Notes &#8212; François Couperin – L&#39;art de toucher le clavecin v2.0 documentation</title>
   
   
   
@@ -114,7 +114,7 @@
   
   
   
-    <p class="title logo__title">François Couperin – L'art de toucher le clavecin v2.0.0 documentation</p>
+    <p class="title logo__title">François Couperin – L'art de toucher le clavecin v2.0 documentation</p>
   
 </a></div>
     
@@ -360,7 +360,7 @@ document.write(`
 <span class="expanded">Hide source</span>
 </summary>
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">CORPUS_PATH</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">getenv</span><span class="p">(</span><span class="s1">&#39;CORPUS_PATH&#39;</span><span class="p">,</span> <span class="s2">&quot;~/workflow_test_metarepo&quot;</span><span class="p">)</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">CORPUS_PATH</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s1">&#39;..&#39;</span><span class="p">,</span> <span class="s1">&#39;..&#39;</span><span class="p">))</span>
 <span class="n">ANNOTATED_ONLY</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">getenv</span><span class="p">(</span><span class="s2">&quot;ANNOTATED_ONLY&quot;</span><span class="p">,</span> <span class="s2">&quot;True&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="p">(</span><span class="s1">&#39;true&#39;</span><span class="p">,</span> <span class="s1">&#39;1&#39;</span><span class="p">,</span> <span class="s1">&#39;t&#39;</span><span class="p">)</span>
 <span class="n">print_heading</span><span class="p">(</span><span class="s2">&quot;Notebook settings&quot;</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;CORPUS_PATH: </span><span class="si">{</span><span class="n">CORPUS_PATH</span><span class="si">!r}</span><span class="s2">&quot;</span><span class="p">)</span>
@@ -374,7 +374,7 @@ document.write(`
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Notebook settings
 -----------------
 
-CORPUS_PATH: &#39;/home/runner/work/workflow_deployment/workflow_deployment/DCML/couperin_clavecin&#39;
+CORPUS_PATH: &#39;/home/runner/work/workflow_deployment/workflow_deployment/main&#39;
 ANNOTATED_ONLY: False
 </pre></div>
 </div>
@@ -402,10 +402,10 @@ ANNOTATED_ONLY: False
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Data and software versions
 --------------------------
 
-Notebook repository &#39;data_reports&#39; @ 2f0de7d
-Data repo &#39;couperin_clavecin&#39; @ 7a6c07b
+Notebook repository &#39;data_reports&#39; @ e3cc44b
+Data repo &#39;workflow_deployment&#39; @ b74d386
 dimcat version 0.3.0
-ms3 version 1.2.5
+ms3 version 2.2.1
 </pre></div>
 </div>
 </div>
@@ -424,16 +424,11 @@ ms3 version 1.2.5
 All corpora
 -----------
 View: This view is called &#39;default&#39;. It 
-	- excludes fnames that are not contained in the metadata,
+	- excludes pieces that are not contained in the metadata,
 	- filters out file extensions requiring conversion (such as .xml), and
 	- excludes review files and folders.
 
-                       has   active
-                  metadata     view
-corpus                             
-couperin_clavecin      yes  default
-
-18/18 fnames are excluded from this view.
+No files detected. Use _.add_corpus().
 </pre></div>
 </div>
 </div>
@@ -456,38 +451,75 @@ couperin_clavecin      yes  default
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Concatenated &#39;metadata.tsv&#39; files cover 0 of the 0 scores.
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">ValueError</span><span class="g g-Whitespace">                                </span>Traceback (most recent call last)
+<span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">7</span><span class="p">],</span> <span class="n">line</span> <span class="mi">1</span>
+<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">all_metadata</span> <span class="o">=</span> <span class="n">dataset</span><span class="o">.</span><span class="n">data</span><span class="o">.</span><span class="n">metadata</span><span class="p">()</span>
+<span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Concatenated &#39;metadata.tsv&#39; files cover </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">all_metadata</span><span class="p">)</span><span class="si">}</span><span class="s2"> of the </span><span class="si">{</span><span class="n">dataset</span><span class="o">.</span><span class="n">data</span><span class="o">.</span><span class="n">count_pieces</span><span class="p">()</span><span class="si">}</span><span class="s2"> scores.&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">      </span><span class="mi">3</span> <span class="n">all_metadata</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">level</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">level</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">nth</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">iloc</span><span class="p">[:,:</span><span class="mi">20</span><span class="p">]</span>
+
+<span class="nn">File ~/.local/lib/python3.10/site-packages/ms3/parse.py:1640,</span> in <span class="ni">Parse.metadata</span><span class="nt">(self, view_name, choose)</span>
+<span class="g g-Whitespace">   </span><span class="mi">1631</span> <span class="k">def</span> <span class="nf">metadata</span><span class="p">(</span>
+<span class="g g-Whitespace">   </span><span class="mi">1632</span>     <span class="bp">self</span><span class="p">,</span>
+<span class="g g-Whitespace">   </span><span class="mi">1633</span>     <span class="n">view_name</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
+<span class="g g-Whitespace">   </span><span class="mi">1634</span>     <span class="n">choose</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="n">Literal</span><span class="p">[</span><span class="s2">&quot;auto&quot;</span><span class="p">,</span> <span class="s2">&quot;ask&quot;</span><span class="p">]]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
+<span class="g g-Whitespace">   </span><span class="mi">1635</span> <span class="p">)</span> <span class="o">-&gt;</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">:</span>
+<span class="g g-Whitespace">   </span><span class="mi">1636</span>     <span class="n">metadata_dfs</span> <span class="o">=</span> <span class="p">{</span>
+<span class="g g-Whitespace">   </span><span class="mi">1637</span>         <span class="n">corpus_name</span><span class="p">:</span> <span class="n">corpus</span><span class="o">.</span><span class="n">metadata</span><span class="p">(</span><span class="n">view_name</span><span class="o">=</span><span class="n">view_name</span><span class="p">,</span> <span class="n">choose</span><span class="o">=</span><span class="n">choose</span><span class="p">)</span>
+<span class="nn">   1638         for corpus_name, corpus</span> in <span class="ni">self.iter_corpora</span><span class="nt">(view_name=view_name)</span>
+<span class="g g-Whitespace">   </span><span class="mi">1639</span>     <span class="p">}</span>
+<span class="ne">-&gt; </span><span class="mi">1640</span>     <span class="n">metadata</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">(</span>
+<span class="g g-Whitespace">   </span><span class="mi">1641</span>         <span class="n">metadata_dfs</span><span class="o">.</span><span class="n">values</span><span class="p">(),</span> <span class="n">keys</span><span class="o">=</span><span class="n">metadata_dfs</span><span class="o">.</span><span class="n">keys</span><span class="p">(),</span> <span class="n">names</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;corpus&quot;</span><span class="p">,</span> <span class="s2">&quot;piece&quot;</span><span class="p">]</span>
+<span class="g g-Whitespace">   </span><span class="mi">1642</span>     <span class="p">)</span>
+<span class="g g-Whitespace">   </span><span class="mi">1643</span>     <span class="k">return</span> <span class="n">metadata</span>
+
+<span class="nn">File ~/.local/lib/python3.10/site-packages/pandas/util/_decorators.py:331,</span> in <span class="ni">deprecate_nonkeyword_arguments.&lt;locals&gt;.decorate.&lt;locals&gt;.wrapper</span><span class="nt">(*args, **kwargs)</span>
+<span class="g g-Whitespace">    </span><span class="mi">325</span> <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">args</span><span class="p">)</span> <span class="o">&gt;</span> <span class="n">num_allow_args</span><span class="p">:</span>
+<span class="g g-Whitespace">    </span><span class="mi">326</span>     <span class="n">warnings</span><span class="o">.</span><span class="n">warn</span><span class="p">(</span>
+<span class="g g-Whitespace">    </span><span class="mi">327</span>         <span class="n">msg</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">arguments</span><span class="o">=</span><span class="n">_format_argument_list</span><span class="p">(</span><span class="n">allow_args</span><span class="p">)),</span>
+<span class="g g-Whitespace">    </span><span class="mi">328</span>         <span class="ne">FutureWarning</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">329</span>         <span class="n">stacklevel</span><span class="o">=</span><span class="n">find_stack_level</span><span class="p">(),</span>
+<span class="g g-Whitespace">    </span><span class="mi">330</span>     <span class="p">)</span>
+<span class="ne">--&gt; </span><span class="mi">331</span> <span class="k">return</span> <span class="n">func</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+
+<span class="nn">File ~/.local/lib/python3.10/site-packages/pandas/core/reshape/concat.py:368,</span> in <span class="ni">concat</span><span class="nt">(objs, axis, join, ignore_index, keys, levels, names, verify_integrity, sort, copy)</span>
+<span class="g g-Whitespace">    </span><span class="mi">146</span> <span class="nd">@deprecate_nonkeyword_arguments</span><span class="p">(</span><span class="n">version</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">allowed_args</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;objs&quot;</span><span class="p">])</span>
+<span class="g g-Whitespace">    </span><span class="mi">147</span> <span class="k">def</span> <span class="nf">concat</span><span class="p">(</span>
+<span class="g g-Whitespace">    </span><span class="mi">148</span>     <span class="n">objs</span><span class="p">:</span> <span class="n">Iterable</span><span class="p">[</span><span class="n">NDFrame</span><span class="p">]</span> <span class="o">|</span> <span class="n">Mapping</span><span class="p">[</span><span class="n">HashableT</span><span class="p">,</span> <span class="n">NDFrame</span><span class="p">],</span>
+   <span class="p">(</span><span class="o">...</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">157</span>     <span class="n">copy</span><span class="p">:</span> <span class="nb">bool</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">158</span> <span class="p">)</span> <span class="o">-&gt;</span> <span class="n">DataFrame</span> <span class="o">|</span> <span class="n">Series</span><span class="p">:</span>
+<span class="g g-Whitespace">    </span><span class="mi">159</span><span class="w">     </span><span class="sd">&quot;&quot;&quot;</span>
+<span class="g g-Whitespace">    </span><span class="mi">160</span><span class="sd">     Concatenate pandas objects along a particular axis.</span>
+<span class="g g-Whitespace">    </span><span class="mi">161</span><span class="sd"> </span>
+<span class="sd">   (...)</span>
+<span class="g g-Whitespace">    </span><span class="mi">366</span><span class="sd">     1   3   4</span>
+<span class="g g-Whitespace">    </span><span class="mi">367</span><span class="sd">     &quot;&quot;&quot;</span>
+<span class="ne">--&gt; </span><span class="mi">368</span>     <span class="n">op</span> <span class="o">=</span> <span class="n">_Concatenator</span><span class="p">(</span>
+<span class="g g-Whitespace">    </span><span class="mi">369</span>         <span class="n">objs</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">370</span>         <span class="n">axis</span><span class="o">=</span><span class="n">axis</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">371</span>         <span class="n">ignore_index</span><span class="o">=</span><span class="n">ignore_index</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">372</span>         <span class="n">join</span><span class="o">=</span><span class="n">join</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">373</span>         <span class="n">keys</span><span class="o">=</span><span class="n">keys</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">374</span>         <span class="n">levels</span><span class="o">=</span><span class="n">levels</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">375</span>         <span class="n">names</span><span class="o">=</span><span class="n">names</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">376</span>         <span class="n">verify_integrity</span><span class="o">=</span><span class="n">verify_integrity</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">377</span>         <span class="n">copy</span><span class="o">=</span><span class="n">copy</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">378</span>         <span class="n">sort</span><span class="o">=</span><span class="n">sort</span><span class="p">,</span>
+<span class="g g-Whitespace">    </span><span class="mi">379</span>     <span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">381</span>     <span class="k">return</span> <span class="n">op</span><span class="o">.</span><span class="n">get_result</span><span class="p">()</span>
+
+<span class="nn">File ~/.local/lib/python3.10/site-packages/pandas/core/reshape/concat.py:425,</span> in <span class="ni">_Concatenator.__init__</span><span class="nt">(self, objs, axis, join, keys, levels, names, ignore_index, verify_integrity, copy, sort)</span>
+<span class="g g-Whitespace">    </span><span class="mi">422</span>     <span class="n">objs</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">objs</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">424</span> <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">objs</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+<span class="ne">--&gt; </span><span class="mi">425</span>     <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">&quot;No objects to concatenate&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">    </span><span class="mi">427</span> <span class="k">if</span> <span class="n">keys</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<span class="g g-Whitespace">    </span><span class="mi">428</span>     <span class="n">objs</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">com</span><span class="o">.</span><span class="n">not_none</span><span class="p">(</span><span class="o">*</span><span class="n">objs</span><span class="p">))</span>
+
+<span class="ne">ValueError</span>: No objects to concatenate
 </pre></div>
 </div>
-<div class="output text_html"><div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>fname</th>
-    </tr>
-    <tr>
-      <th>corpus</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
-</div></div></div>
+</div>
 </div>
 <p><strong>Compute chronological order</strong></p>
 <div class="cell docutils container">
@@ -495,54 +527,6 @@ couperin_clavecin      yes  default
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">chronological_order</span> <span class="o">=</span> <span class="n">chronological_corpus_order</span><span class="p">(</span><span class="n">all_metadata</span><span class="p">)</span>
 <span class="n">corpus_colors</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">chronological_order</span><span class="p">,</span> <span class="n">CORPUS_COLOR_SCALE</span><span class="p">))</span>
 <span class="n">chronological_order</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
-<span class="ne">KeyError</span><span class="g g-Whitespace">                                  </span>Traceback (most recent call last)
-<span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">8</span><span class="p">],</span> <span class="n">line</span> <span class="mi">1</span>
-<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">chronological_order</span> <span class="o">=</span> <span class="n">chronological_corpus_order</span><span class="p">(</span><span class="n">all_metadata</span><span class="p">)</span>
-<span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="n">corpus_colors</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">chronological_order</span><span class="p">,</span> <span class="n">CORPUS_COLOR_SCALE</span><span class="p">))</span>
-<span class="g g-Whitespace">      </span><span class="mi">3</span> <span class="n">chronological_order</span>
-
-<span class="nn">File ~/work/workflow_deployment/workflow_deployment/DCML/tmp_corpus_docs/notebooks/utils.py:81,</span> in <span class="ni">chronological_corpus_order</span><span class="nt">(df, year_column)</span>
-<span class="g g-Whitespace">     </span><span class="mi">76</span> <span class="k">def</span> <span class="nf">chronological_corpus_order</span><span class="p">(</span><span class="n">df</span><span class="p">:</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">,</span> 
-<span class="g g-Whitespace">     </span><span class="mi">77</span>                                <span class="n">year_column</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s1">&#39;composed_end&#39;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">]:</span>
-<span class="g g-Whitespace">     </span><span class="mi">78</span><span class="w">     </span><span class="sd">&quot;&quot;&quot;Expects a dataframe containing ``year_column`` and corpus names in the first index level.</span>
-<span class="g g-Whitespace">     </span><span class="mi">79</span><span class="sd">     Returns the corpus names in chronological order</span>
-<span class="g g-Whitespace">     </span><span class="mi">80</span><span class="sd">     &quot;&quot;&quot;</span>
-<span class="ne">---&gt; </span><span class="mi">81</span>     <span class="n">mean_composition_years</span> <span class="o">=</span> <span class="n">corpus_mean_composition_years</span><span class="p">(</span><span class="n">df</span><span class="o">=</span><span class="n">df</span><span class="p">,</span> <span class="n">year_column</span><span class="o">=</span><span class="n">year_column</span><span class="p">)</span>
-<span class="g g-Whitespace">     </span><span class="mi">82</span>     <span class="k">return</span> <span class="n">mean_composition_years</span><span class="o">.</span><span class="n">index</span><span class="o">.</span><span class="n">to_list</span><span class="p">()</span>
-
-<span class="nn">File ~/work/workflow_deployment/workflow_deployment/DCML/tmp_corpus_docs/notebooks/utils.py:74,</span> in <span class="ni">corpus_mean_composition_years</span><span class="nt">(df, year_column)</span>
-<span class="g g-Whitespace">     </span><span class="mi">69</span> <span class="k">def</span> <span class="nf">corpus_mean_composition_years</span><span class="p">(</span><span class="n">df</span><span class="p">:</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">,</span> 
-<span class="g g-Whitespace">     </span><span class="mi">70</span>                                   <span class="n">year_column</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s1">&#39;composed_end&#39;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">:</span>
-<span class="g g-Whitespace">     </span><span class="mi">71</span><span class="w">     </span><span class="sd">&quot;&quot;&quot;Expects a dataframe containing ``year_column`` and computes its means by grouping on the first index level (&#39;corpus&#39; by default).</span>
-<span class="g g-Whitespace">     </span><span class="mi">72</span><span class="sd">     Returns the result as a series where the index contains corpus names and the values are mean composition years.</span>
-<span class="g g-Whitespace">     </span><span class="mi">73</span><span class="sd">     &quot;&quot;&quot;</span>
-<span class="ne">---&gt; </span><span class="mi">74</span>     <span class="k">return</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">level</span><span class="o">=</span><span class="mi">0</span><span class="p">)[</span><span class="n">year_column</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span><span class="o">.</span><span class="n">sort_values</span><span class="p">()</span>
-
-<span class="nn">File ~/.local/lib/python3.10/site-packages/pandas/core/groupby/generic.py:1416,</span> in <span class="ni">DataFrameGroupBy.__getitem__</span><span class="nt">(self, key)</span>
-<span class="g g-Whitespace">   </span><span class="mi">1407</span> <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">key</span><span class="p">,</span> <span class="nb">tuple</span><span class="p">)</span> <span class="ow">and</span> <span class="nb">len</span><span class="p">(</span><span class="n">key</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">:</span>
-<span class="g g-Whitespace">   </span><span class="mi">1408</span>     <span class="c1"># if len == 1, then it becomes a SeriesGroupBy and this is actually</span>
-<span class="g g-Whitespace">   </span><span class="mi">1409</span>     <span class="c1"># valid syntax, so don&#39;t raise warning</span>
-<span class="g g-Whitespace">   </span><span class="mi">1410</span>     <span class="n">warnings</span><span class="o">.</span><span class="n">warn</span><span class="p">(</span>
-<span class="g g-Whitespace">   </span><span class="mi">1411</span>         <span class="s2">&quot;Indexing with multiple keys (implicitly converted to a tuple &quot;</span>
-<span class="g g-Whitespace">   </span><span class="mi">1412</span>         <span class="s2">&quot;of keys) will be deprecated, use a list instead.&quot;</span><span class="p">,</span>
-<span class="g g-Whitespace">   </span><span class="mi">1413</span>         <span class="ne">FutureWarning</span><span class="p">,</span>
-<span class="g g-Whitespace">   </span><span class="mi">1414</span>         <span class="n">stacklevel</span><span class="o">=</span><span class="n">find_stack_level</span><span class="p">(),</span>
-<span class="g g-Whitespace">   </span><span class="mi">1415</span>     <span class="p">)</span>
-<span class="ne">-&gt; </span><span class="mi">1416</span> <span class="k">return</span> <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__getitem__</span><span class="p">(</span><span class="n">key</span><span class="p">)</span>
-
-<span class="nn">File ~/.local/lib/python3.10/site-packages/pandas/core/base.py:248,</span> in <span class="ni">SelectionMixin.__getitem__</span><span class="nt">(self, key)</span>
-<span class="g g-Whitespace">    </span><span class="mi">246</span> <span class="k">else</span><span class="p">:</span>
-<span class="g g-Whitespace">    </span><span class="mi">247</span>     <span class="k">if</span> <span class="n">key</span> <span class="ow">not</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">obj</span><span class="p">:</span>
-<span class="ne">--&gt; </span><span class="mi">248</span>         <span class="k">raise</span> <span class="ne">KeyError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Column not found: </span><span class="si">{</span><span class="n">key</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
-<span class="g g-Whitespace">    </span><span class="mi">249</span>     <span class="n">subset</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">obj</span><span class="p">[</span><span class="n">key</span><span class="p">]</span>
-<span class="g g-Whitespace">    </span><span class="mi">250</span>     <span class="n">ndim</span> <span class="o">=</span> <span class="n">subset</span><span class="o">.</span><span class="n">ndim</span>
-
-<span class="ne">KeyError</span>: &#39;Column not found: composed_end&#39;
 </pre></div>
 </div>
 </div>
