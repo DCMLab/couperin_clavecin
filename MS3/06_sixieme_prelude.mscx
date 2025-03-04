@@ -215,6 +215,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="P86 (composer)">Q50186</metaTag>
+    <metaTag name="P86 (composer).1">Q50186</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1717</metaTag>
