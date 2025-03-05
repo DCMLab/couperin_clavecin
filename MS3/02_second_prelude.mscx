@@ -606,6 +606,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Beam>
@@ -902,6 +903,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <Chord>
@@ -1218,7 +1220,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="2"/>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
@@ -1834,11 +1836,14 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <dots>1</dots>
+            <offset x="0" y="1"/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -2097,7 +2102,7 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articMarcatoBelow</subtype>
+              <subtype>articMarcatoAbove</subtype>
               </Articulation>
             <Note>
               <pitch>76</pitch>
@@ -2123,11 +2128,14 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <dots>1</dots>
+            <offset x="0" y="1"/>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -2374,7 +2382,6 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -2741,7 +2748,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
@@ -2918,11 +2925,8 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="5"/>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
+            <offset x="0" y="3"/>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -2990,6 +2994,13 @@
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
+          </voice>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3064,13 +3075,15 @@
             <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Rest>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-3"/>
-            <dots>1</dots>
+            <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -3161,8 +3174,15 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <dots>2</dots>
             <durationType>quarter</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
             </Rest>
           <Chord>
             <durationType>16th</durationType>
@@ -3225,7 +3245,7 @@
             <name>i6</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-4"/>
+            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -3233,7 +3253,7 @@
             <name>V6/iv</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-4"/>
+            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -3298,7 +3318,7 @@
             <name>iv</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-4"/>
+            <offset x="0" y="-2"/>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
@@ -3552,7 +3572,6 @@
             <name>V7/iv</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -3631,7 +3650,6 @@
             <name>V7/III</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -3710,7 +3728,6 @@
             <name>viio64/III</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <location>
@@ -3796,7 +3813,6 @@
             <name>I/III|PAC}</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-1"/>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
@@ -4227,7 +4243,7 @@
             <name>ii%65(119)</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -4270,11 +4286,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -4354,7 +4370,6 @@
             <name>i6(11#72)</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-3"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -4751,6 +4766,7 @@
           </voice>
         <voice>
           <Rest>
+            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>

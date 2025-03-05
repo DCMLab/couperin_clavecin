@@ -7,18 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.50201</pageWidth>
-      <pageHeight>10.998</pageHeight>
-      <pagePrintableWidth>7.11101</pagePrintableWidth>
-      <pageEvenLeftMargin>0.6955</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.6955</pageOddLeftMargin>
-      <pageEvenTopMargin>0.5005</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.5005</pageEvenBottomMargin>
-      <pageOddTopMargin>0.5005</pageOddTopMargin>
-      <pageOddBottomMargin>0.5005</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
+      <pageWidth>8.27008</pageWidth>
+      <pageHeight>11.6902</pageHeight>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.651</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -148,8 +141,6 @@
             <text><sym>metNoteQuarterUp</sym> = 96</text>
             </Tempo>
           <StaffText>
-            <family>Times</family>
-            <size>9.4</size>
             <offset x="0" y="-10.2742"/>
             <text><font size="14"></font><font face="SnellRoundhand BoldScript"></font>Légèrement</text>
             </StaffText>
@@ -1886,8 +1877,6 @@
               </Note>
             </Chord>
           <StaffText>
-            <family>Times</family>
-            <size>9.4</size>
             <text><font size="12.5"></font><font face="SnellRoundhand BoldScript"></font>Fin</text>
             </StaffText>
           <Chord>

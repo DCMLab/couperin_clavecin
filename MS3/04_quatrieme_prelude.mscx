@@ -7,18 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.50201</pageWidth>
-      <pageHeight>10.998</pageHeight>
-      <pagePrintableWidth>7.11101</pagePrintableWidth>
-      <pageEvenLeftMargin>0.6955</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.6955</pageOddLeftMargin>
-      <pageEvenTopMargin>0.5005</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.5005</pageEvenBottomMargin>
-      <pageOddTopMargin>0.5005</pageOddTopMargin>
-      <pageOddBottomMargin>0.5005</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
+      <pageWidth>8.27008</pageWidth>
+      <pageHeight>11.6902</pageHeight>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.651</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -265,6 +258,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <Beam>
@@ -612,6 +606,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -815,6 +810,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -869,7 +865,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -1037,6 +1033,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <Beam>
@@ -1097,7 +1094,7 @@
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -1601,6 +1598,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -2204,6 +2202,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Beam>
@@ -2243,7 +2242,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -3003,11 +3002,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -3180,15 +3179,15 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -3226,11 +3225,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -3543,7 +3542,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -3877,6 +3876,7 @@
             </Harmony>
           <Rest>
             <offset x="0" y="-3"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>quarter</durationType>
             </Rest>
@@ -4125,7 +4125,6 @@
             <name>V|HC}{</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -5544,6 +5543,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <Chord>
