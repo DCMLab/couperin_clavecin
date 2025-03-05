@@ -215,7 +215,6 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="P86 (composer)">Q50186</metaTag>
-    <metaTag name="P86 (composer).1">Q50186</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1717</metaTag>
@@ -233,7 +232,6 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/e0231f6a-4e4a-4f32-8152-8002ce71d668</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/381211</metaTag>
-    <metaTag name="pdf.1">https://imslp.org/wiki/Special:ReverseLookup/22200</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, Hanné Becker</metaTag>
