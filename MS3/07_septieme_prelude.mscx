@@ -234,6 +234,7 @@
     <metaTag name="musicbrainz">https://musicbrainz.org/work/e285d2d1-63c8-4d8a-81fd-f4cc7ea493ed</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/381211</metaTag>
+    <metaTag name="pdf.1">https://imslp.org/wiki/Special:ReverseLookup/22200</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK, Hanné Becker</metaTag>
@@ -255,9 +256,9 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Clavecin</trackName>
+      <trackName>Harpsichord</trackName>
       <Instrument id="harpsichord">
-        <trackName>Instrument 1</trackName>
+        <trackName>Harpsichord</trackName>
         <instrumentId>keyboard.harpsichord</instrumentId>
         <Articulation>
           <velocity>100</velocity>
@@ -293,12 +294,9 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <controller ctrl="7" value="101"/>
-          <controller ctrl="10" value="63"/>
-          <synti>Fluid</synti>
-          </Channel>
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <clef>F</clef>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -307,11 +305,8 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <offset x="0.677736" y="-9.08167"/>
-          <text><font size="14"></font><font face="SnellRoundhand BoldScript"></font>François Couperin
-<font size="10.9"></font>(1668-1733)</text>
+          <text>François Couperin
+</text>
           </Text>
         <Text>
           <style>Lyricist</style>
@@ -321,16 +316,11 @@
           </Text>
         <Text>
           <style>Title</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <text><font size="14"></font><font face="SnellRoundhand BlackScript"></font>L ’Art de toucher le Clavecin (1716)</text>
+          <text>Seventh Prelude</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <offset x="0.271095" y="3.76491"/>
-          <text><font size="25"></font><font face="SnellRoundhand BoldScript"></font>Septième Prélude</text>
+          <text>from: L’Art de toucher le clavecin</text>
           </Text>
         </VBox>
       <Measure>
