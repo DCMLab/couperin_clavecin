@@ -7,209 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.50201</pageWidth>
-      <pageHeight>10.998</pageHeight>
-      <pagePrintableWidth>7.11101</pagePrintableWidth>
-      <pageEvenLeftMargin>0.6955</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.6955</pageOddLeftMargin>
-      <pageEvenTopMargin>0.5005</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.5005</pageEvenBottomMargin>
-      <pageOddTopMargin>0.5005</pageOddTopMargin>
-      <pageOddBottomMargin>0.5005</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
-      <minSystemDistance>14.5</minSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <hairpinFramePadding>0</hairpinFramePadding>
-      <hairpinFrameWidth>0</hairpinFrameWidth>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <pedalFramePadding>0</pedalFramePadding>
-      <pedalFrameWidth>0</pedalFrameWidth>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
-      <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <voltaFontFace>Times</voltaFontFace>
-      <voltaFramePadding>0</voltaFramePadding>
-      <voltaFrameWidth>0</voltaFrameWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <ottavaFontStyle>2</ottavaFontStyle>
-      <ottavaFramePadding>0</ottavaFramePadding>
-      <ottavaFrameWidth>0</ottavaFrameWidth>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <tupletFramePadding>0</tupletFramePadding>
-      <tupletFrameWidth>0</tupletFrameWidth>
-      <textLineFramePadding>0</textLineFramePadding>
-      <textLineFrameWidth>0</textLineFrameWidth>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0</titleFramePadding>
-      <titleFrameWidth>0</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0</subTitleFramePadding>
-      <subTitleFrameWidth>0</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0</composerFramePadding>
-      <composerFrameWidth>0</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0</lyricistFramePadding>
-      <lyricistFrameWidth>0</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0</fingeringFramePadding>
-      <fingeringFrameWidth>0</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <longInstrumentFramePadding>0</longInstrumentFramePadding>
-      <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
-      <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <dynamicsFramePadding>0</dynamicsFramePadding>
-      <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <expressionFramePadding>0</expressionFramePadding>
-      <expressionFrameWidth>0</expressionFrameWidth>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFontSize>9.4</tempoFontSize>
-      <tempoFramePadding>0</tempoFramePadding>
-      <tempoFrameWidth>0</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontSize>9.4</metronomeFontSize>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <metronomeFramePadding>0</metronomeFramePadding>
-      <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <measureNumberFramePadding>0</measureNumberFramePadding>
-      <measureNumberFrameWidth>0</measureNumberFrameWidth>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <translatorAlign>center,top</translatorAlign>
-      <translatorFramePadding>0</translatorFramePadding>
-      <translatorFrameWidth>0</translatorFrameWidth>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFontSize>9.4</systemFontSize>
-      <systemAlign>left,top</systemAlign>
-      <systemFramePadding>0</systemFramePadding>
-      <systemFrameWidth>0</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffFontSize>9.4</staffFontSize>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0</staffFramePadding>
-      <staffFrameWidth>0</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0</repeatRightFramePadding>
-      <repeatRightFrameWidth>0</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <frameFramePadding>0</frameFramePadding>
-      <frameFrameWidth>0</frameFrameWidth>
-      <textLineFontFace>Times</textLineFontFace>
-      <textLineFontSize>9.4</textLineFontSize>
-      <glissandoFontFace>Times</glissandoFontFace>
-      <glissandoFontSize>9.4</glissandoFontSize>
-      <glissandoAlign>center,baseline</glissandoAlign>
-      <glissandoFramePadding>0</glissandoFramePadding>
-      <glissandoFrameWidth>0</glissandoFrameWidth>
-      <bendFontFace>Times</bendFontFace>
-      <bendAlign>center,bottom</bendAlign>
-      <bendFramePadding>0</bendFramePadding>
-      <bendFrameWidth>0</bendFrameWidth>
-      <headerFontFace>Times</headerFontFace>
-      <headerAlign>center,top</headerAlign>
-      <headerFramePadding>0</headerFramePadding>
-      <headerFrameWidth>0</headerFrameWidth>
-      <footerFontFace>Times</footerFontFace>
-      <footerAlign>center,bottom</footerAlign>
-      <footerFramePadding>0</footerFramePadding>
-      <footerFrameWidth>0</footerFrameWidth>
-      <instrumentChangeFontFace>Times</instrumentChangeFontFace>
-      <instrumentChangeFontSize>9.4</instrumentChangeFontSize>
-      <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
-      <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
-      <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.651</Spatium>
+      <pageWidth>8.27008</pageWidth>
+      <pageHeight>11.6902</pageHeight>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -255,10 +57,13 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Clavecin</trackName>
+      <trackName>Harpsichord</trackName>
       <Instrument id="harpsichord">
-        <trackName>Instrument 1</trackName>
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <trackName>Harpsichord</trackName>
         <instrumentId>keyboard.harpsichord</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -303,27 +108,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6.012</height>
+        <height>13.9624</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <text><font size="14"></font><font face="SnellRoundhand BoldScript"></font>François Couperin
-<font size="10.9"></font>(1668-1733)</text>
+          <text>François Couperin</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <text><font size="14"></font><font face="SnellRoundhand BlackScript"></font>L ’Art de toucher le Clavecin (1716)</text>
+          <text>Fifth Prelude</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>Times</family>
-          <size>9.4</size>
-          <offset x="-2.5754" y="-6.40073"/>
-          <text><font size="25"></font><font face="SnellRoundhand BoldScript"></font>Cinquième Prélude</text>
+          <text>from: L’Art de toucher le clavecin</text>
           </Text>
         </VBox>
       <Measure>
@@ -450,8 +247,12 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -510,8 +311,12 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
             </Rest>
           </voice>
         </Measure>
@@ -693,6 +498,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
@@ -740,8 +546,12 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
@@ -751,6 +561,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
@@ -1072,6 +883,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -1247,8 +1059,12 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
             </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1868,6 +1684,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -2050,15 +1867,15 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -2115,16 +1932,15 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
-            <small>1</small>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -2167,6 +1983,7 @@
             </Chord>
           <Rest>
             <offset x="0" y="-1"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>eighth</durationType>
             </Rest>
@@ -2351,7 +2168,7 @@
             </Chord>
           <endTuplet/>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -2376,7 +2193,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -2671,6 +2488,7 @@
         <voice>
           <Rest>
             <offset x="0" y="5"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>eighth</durationType>
             </Rest>
@@ -2699,7 +2517,6 @@
                 </Spanner>
               <pitch>56</pitch>
               <tpc>22</tpc>
-              <small>1</small>
               </Note>
             </Chord>
           <Beam>
@@ -2916,7 +2733,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -3053,6 +2870,7 @@
         <voice>
           <Rest>
             <offset x="0" y="-1"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>eighth</durationType>
             </Rest>
@@ -3265,6 +3083,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
@@ -3474,7 +3293,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
+            <offset x="0" y="1"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -3646,7 +3465,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>71</pitch>
@@ -3774,19 +3592,18 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <offset x="0" y="3"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>eighth</durationType>
             </Rest>
@@ -4123,6 +3940,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <location>
@@ -4701,6 +4519,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
@@ -6509,6 +6328,7 @@
         <voice>
           <Rest>
             <offset x="0" y="4"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>eighth</durationType>
             </Rest>
@@ -6546,7 +6366,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <small>1</small>
               </Note>
             </Chord>
           <Chord>
@@ -6681,6 +6500,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0" y="-2"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -6736,6 +6556,7 @@
             <name>I(9)</name>
             </Harmony>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
@@ -6768,6 +6589,7 @@
             <name>V65/V</name>
             </Harmony>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -7029,7 +6851,7 @@
             <offset x="-0.406642" y="-3.58438"/>
             </Harmony>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -7043,6 +6865,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           <Chord>
@@ -7165,7 +6988,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>quarter</durationType>
             </Rest>
@@ -7181,6 +7004,7 @@
         <voice>
           <Rest>
             <offset x="0" y="1"/>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -7192,6 +7016,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -7237,7 +7062,7 @@
             <offset x="0.677736" y="-3.85548"/>
             </Harmony>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
@@ -7369,7 +7194,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           </voice>
@@ -7382,7 +7207,6 @@
             <offset x="0" y="-4.12657"/>
             </Harmony>
           <Rest>
-            <offset x="0" y="-4"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -7410,7 +7234,6 @@
             <name>V7</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-3"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -7730,6 +7553,7 @@
             </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
+            <visible>0</visible>
             <small>1</small>
             <durationType>quarter</durationType>
             </Rest>
@@ -8184,7 +8008,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
             </Rest>
           </voice>
@@ -8222,7 +8046,6 @@
             <name>viio/IV</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-3"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -9541,6 +9364,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>

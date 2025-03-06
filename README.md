@@ -14,6 +14,14 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # François Couperin – L'art de toucher le clavecin
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents nine pieces found in François
+Couperin's 1717 treatise on harpsichord fingering, ornamentation, and interpretation. This work was intended to provide
+a study supplement to Couperin's own 1713 Pieces de clavecin, published upon a grant of privilege by King Louis XIV.
+This courtly and didactic music represents an elegant and archetypical example of the Baroque harmonic technique, and
+our annotations stress the precision of contrapuntal detail that permeates this music. These annotations will provide
+considerable support to future quantitative study of Baroque ornamentation and contrapuntal figuration.
 
 ## Cite as
 
