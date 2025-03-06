@@ -1,9 +1,46 @@
-# L'art de toucher le clavecin
+![Version](https://img.shields.io/github/v/release/DCMLab/couperin_clavecin?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/couperin_clavecin)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
-Downloaded in MUS format (Finale 2005b.r1) from https://www.musicalion.com/de/scores/notes/composition/detailed-search-composition?content=couperin+toucher \
-Don't distribute.
 
-Converted to MUSX and XML using Finale 25.2.0.92.
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/couperin_clavecin](https://github.com/DCMLab/couperin_clavecin) and the corresponding
+* documentation page [https://dcmlab.github.io/couperin_clavecin](https://dcmlab.github.io/couperin_clavecin)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/couperin_clavecin/introduction).
+
+# François Couperin – L'art de toucher le clavecin
+
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents nine pieces found in François
+Couperin's 1717 treatise on harpsichord fingering, ornamentation, and interpretation. This work was intended to provide
+a study supplement to Couperin's own 1713 Pieces de clavecin, published upon a grant of privilege by King Louis XIV.
+This courtly and didactic music represents an elegant and archetypical example of the Baroque harmonic technique, and
+our annotations stress the precision of contrapuntal detail that permeates this music. These annotations will provide
+considerable support to future quantitative study of Baroque ornamentation and contrapuntal figuration.
+
+## Cite as
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/couperin_clavecin/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/couperin_clavecin/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+## File naming convention
+
 
 ## Overview
 |     file_name      |measures|labels|standard|                annotators                 |   reviewers    |
@@ -19,4 +56,4 @@ Converted to MUSX and XML using Finale 25.2.0.92.
 |08_huitieme_prelude |      31|   122|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK, Hanné Becker|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
