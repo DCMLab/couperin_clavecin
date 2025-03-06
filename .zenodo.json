@@ -39,7 +39,7 @@
         }
     ],
     "upload_type": "dataset",
-    "version": "v2.0",
+    "version": "v2.1",
     "communities": [
         {
             "identifier": "dcml"
@@ -48,7 +48,7 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2025-03-03",
+    "publication_date": "2025-03-06",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
@@ -75,7 +75,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/couperin_clavecin/tree/v2.0",
+            "identifier": "https://github.com/DCMLab/couperin_clavecin/tree/v2.1",
             "relation": "references"
         },
         {
