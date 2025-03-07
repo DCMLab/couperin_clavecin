@@ -88,7 +88,7 @@ Please [create an issue](https://github.com/DCMLab/couperin_clavecin/issues) and
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). François Couperin – L'art de toucher le clavecin (v2.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984598_
+_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). François Couperin – L'art de toucher le clavecin (v2.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984598_
 
 ## License
 
