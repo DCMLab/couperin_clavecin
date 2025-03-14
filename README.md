@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/couperin_clavecin/introduction).
 
-# François Couperin – L'art de toucher le clavecin
+# François Couperin – L'art de toucher le clavecin (A corpus of annotated scores)
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
@@ -88,7 +88,7 @@ Please [create an issue](https://github.com/DCMLab/couperin_clavecin/issues) and
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). François Couperin – L'art de toucher le clavecin (v2.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984598_
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). François Couperin – L'art de toucher le clavecin (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984598
 
 ## License
 
