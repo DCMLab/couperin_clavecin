@@ -12,6 +12,11 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/couperin_clavecin/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # François Couperin – L'art de toucher le clavecin (A corpus of annotated scores)
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
@@ -68,13 +73,13 @@ every modern programming language.
 
 Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
 to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
-`pip install -U ms3` (requires Python 3.10) you'll be able to load any TSV like this:
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
 
 ```python
 import ms3
 
 labels = ms3.load_tsv("harmonies/00_allemande.harmonies.tsv")
-notes = ms3.load_tsv("notes/00_allemande.notes.tsv"")
+notes = ms3.load_tsv("notes/00_allemande.notes.tsv")
 ```
 
 
@@ -88,7 +93,7 @@ Please [create an issue](https://github.com/DCMLab/couperin_clavecin/issues) and
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). François Couperin – L'art de toucher le clavecin (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984598
+> Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
 
 ## License
 
